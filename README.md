@@ -1,6 +1,6 @@
 # npmtest-qrcode
 
-#### test coverage for  [qrcode (v0.8.1)](http://github.com/soldair/node-qrcode)  [![npm package](https://img.shields.io/npm/v/npmtest-qrcode.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-qrcode) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-qrcode.svg)](https://travis-ci.org/npmtest/node-npmtest-qrcode)
+#### basic test coverage for  [qrcode (v0.8.1)](http://github.com/soldair/node-qrcode)  [![npm package](https://img.shields.io/npm/v/npmtest-qrcode.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-qrcode) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-qrcode.svg)](https://travis-ci.org/npmtest/node-npmtest-qrcode)
 
 #### QRCode / 2d Barcode api with both server side and client side support using canvas
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-qrcode/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-qrcode/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-qrcode/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-qrcode/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-qrcode/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-qrcode/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-qrcode/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-qrcode/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-qrcode/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-qrcode/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-qrcode/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-qrcode/build/coverage.html/index.html)
 
